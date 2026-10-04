@@ -1,0 +1,16 @@
+Product FAQ: CloudNotes
+
+Q: What is CloudNotes?
+A: CloudNotes is a simple note-taking application that syncs across devices
+and supports offline editing.
+
+Q: How much does it cost?
+A: CloudNotes offers a free tier for up to 100 notes, and a paid plan for
+unlimited notes and version history.
+
+Q: Does CloudNotes support markdown?
+A: Yes, CloudNotes supports standard markdown formatting including headers,
+lists, bold and italic text, and code blocks.
+
+Q: Can I share notes with other users?
+A: Yes, any note can be shared via a link with view-only or edit permissions.

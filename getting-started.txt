@@ -1,0 +1,13 @@
+Getting Started with CloudNotes
+
+Welcome to CloudNotes! This guide walks you through your first five minutes
+with the app.
+
+Step 1: Create an account using your email address or single sign-on.
+Step 2: Click "New Note" to create your first note.
+Step 3: Use the toolbar to format text, add checklists, or insert images.
+Step 4: Notes save automatically every few seconds.
+Step 5: Install the mobile app to keep your notes in sync on the go.
+
+If you get stuck, visit the help center or contact support from the
+Settings menu.
